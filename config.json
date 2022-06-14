@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb+srv://cagalitan:maris08@cluster0.tmhl5.mongodb.net/cagalitanDatabase?retryWrites=true&w=majority",
+    "secret": "aa5f1011-cff5-4e67-9ff7-87289b3ec84f",
+    "emailFrom": "info@node-mongo-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "auth": {
+            "user": "cagalitanmaris21@gmail.com",
+            "pass": "mar070898"
+        }
+    }
+}
